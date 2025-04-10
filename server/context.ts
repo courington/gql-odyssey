@@ -1,4 +1,4 @@
-import { TrackAPI } from "./src/tracks-api";
+import { TrackAPI } from "./src/datasources/track-api";
 
 export type DataSourceContext = {
     dataSources: {
